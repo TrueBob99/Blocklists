@@ -1,7 +1,7 @@
 # Title: Anon's list.txt
 # Released: 2023-04-21T01:05:23+00:00
 # Count: 72 domains
-#
+
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ads.samsungads.com
