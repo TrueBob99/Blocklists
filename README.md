@@ -1,6 +1,6 @@
 # Blocklists
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-comcast.svg)]
+[!(https://forthebadge.com/images/badges/powered-by-comcast.svg)]
 
 A collection of `hosts` files for domain blocking.
 
