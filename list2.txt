@@ -1,4 +1,4 @@
-# Title: Anon's list.txt
+# Title: Blocklist.txt
 # Released: 2023-04-21T01:05:23+00:00
 # Count: 72 domains
 #
