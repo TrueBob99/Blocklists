@@ -1,6 +1,7 @@
 # Blocklists
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-comcast.svg)](https://forthebadge.com)
+
 A collection of `hosts` files for domain blocking.
 
 Host file type | Description | Raw hosts
